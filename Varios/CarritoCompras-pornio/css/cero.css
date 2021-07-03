@@ -1,0 +1,146 @@
+body {
+  background-color: rgb(10, 13, 22);
+}
+nav {
+  background-color: rgb(8, 5, 2);
+  height: 100px;
+  margin-top: 5px;
+}
+
+#containerProductos {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: space-around;
+  margin: 100px;
+}
+.btns {
+  border-radius: 20%;
+  background-color: rgb(220, 117, 20);
+  font-family: "Reggae One", cursive;
+  /* position: fixed; */
+}
+#numeroCarrito {
+  padding: 1px;
+  border-radius: 100%;
+  margin-left: 5px;
+}
+img {
+  margin: 0px;
+  padding: 5px;
+  width: 200px;
+  box-shadow: black;
+  border-radius: 50px;
+}
+.btn {
+  border-radius: 50px;
+  background-color: rgb(197, 119, 30);
+  display: flex;
+  color: beige;
+  margin-left: 58px;
+  margin-bottom: 10px;
+  width: 90px;
+  height: 30px;
+  /* font-family: 'Girassol', cursive; */
+}
+.tittle {
+  display: flex;
+  color: rgb(155, 50, 24);
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-top: 0px;
+  font-size: 35px;
+  font-family: "Reggae One", cursive;
+}
+
+.btnp {
+  display: flex;
+  color: rgb(155, 50, 24);
+  margin-bottom: 10px;
+  margin-left: 50px;
+  font-family: "Reggae One", cursive;
+  font-size: 18px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+span {
+  display: flex;
+  color: rgb(155, 50, 24);
+  margin-bottom: 10px;
+  margin-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 15px;
+  font-family: "Reggae One", cursive;
+}
+
+/* padding-bottom: 50px;  */
+
+.imgCarrito {
+  width: 140px;
+  margin: 30px;
+}
+button {
+  font-size: 15px;
+  border-radius: 50px;
+  background-color: rgb(255, 136, 0);
+  color: rgb(14, 10, 6);
+}
+.modal-header {
+  background-color: rgb(0, 0, 0, 0.4);
+  border-radius: 50px;
+}
+.modal-content {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+p {
+  color: rgb(255, 136, 0);
+}
+h5 {
+  color: rgb(255, 136, 0);
+  margin-left: 150px;
+  font-family: "Reggae One", cursive;
+  font-size: 30px;
+}
+.carr {
+  margin-right: 100px;
+  font-size: 20px;
+  color: rgb(255, 136, 0);
+}
+.btn-close {
+  color: rgb(255, 136, 0);
+  font-size: 23px;
+  height: 50px;
+}
+.navbar-brand {
+  color: rgb(155, 50, 24);
+  font-size: 20px;
+  font-family: "Reggae One", cursive;
+  margin-bottom: 50px;
+}
+.acum {
+  margin-right: 50px;
+  height: 70px;
+  
+}
+.btnr {
+  border-radius: 50%;
+
+  background-color: rgb(0, 0, 0);
+  font-family: "Reggae One", cursive;
+  /* position: fixed; */
+  padding-right: 10px;
+  margin-bottom: 58px;
+  margin-left: 125px;
+  position: absolute;
+}
+small {
+  font-size: 13px;
+  color:orangered
+}
+.flor{
+  width: 90px;
+  margin-right: 10px;
+  margin-left: 100px;
+}

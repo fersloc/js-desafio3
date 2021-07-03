@@ -1,0 +1,8 @@
+[ 
+    { "myKey": "A", "status": 0, "score": 1.5 },
+    { "myKey": "C", "status": 1, "score": 2.0 },
+    { "myKey": "D", "status": 0, "score": 0.2 },
+    { "myKey": "E", "status": 1, "score": 1.0 },
+    { "myKey": "F", "status": 0, "score": 0.4 },
+    { "myKey": "G", "status": 1, "score": 3.0 }
+]

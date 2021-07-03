@@ -1,0 +1,18 @@
+[
+    {
+        "user": "Cristian",
+        "lenguajes": ["python", 25]
+    },
+    {
+        "user": "dos",
+        "lenguajes": ["asdfasdf", 25]
+    },
+    {
+        "user": "tres",
+        "lenguajes": ["pytasdfgfghon", 25]
+    },
+    {
+        "user": "cuatro",
+        "lenguajes": ["pytaaaaaaaaaaaaahon", 25]
+    }
+]
